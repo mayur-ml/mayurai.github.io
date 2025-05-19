@@ -1,2 +1,2 @@
-# mayurai.github.io
-mayurai.github.io
+# mayur-ml.githib.io
+website
